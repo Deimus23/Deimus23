@@ -37,7 +37,7 @@ Proyectos que exploran el uso de MongoDB, evitando relaciones y `ObjectId`, y en
 
 ### 🌐 Encuéntrame en
 
-- [GitHub](https://github.com/Deimus_23)
+- [GitHub](https://github.com/Deimus23)
 - [YouTube](https://www.youtube.com/@Deimus23)
 - [LinkedIn](https://www.linkedin.com/in/antonio-carrasco/)
 
