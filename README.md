@@ -31,7 +31,7 @@ Proyectos que exploran el uso de MongoDB, evitando relaciones y `ObjectId`, y en
 
 ### 📊 Mis estadísticas
 
-![Tus stats](https://github-readme-stats.vercel.app/api?username=Deimus_23&show_icons=true&theme=radical)
+![Tus stats](https://github-readme-stats.vercel.app/api?username=Deimus23&show_icons=true&theme=radical)
 
 ---
 
